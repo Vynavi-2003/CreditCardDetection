@@ -35,7 +35,7 @@ Recall improved significantly
 ROC-AUC remained competitive, with better fraud detection
 Feature Importance
 Most correlated features with fraud:
-V17, V14, V12, V10
+  V17, V14, V12, V10
 
 Future Work
 1. Hyperparameter tuning with GridSearchCV
