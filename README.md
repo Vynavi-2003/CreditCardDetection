@@ -1,7 +1,7 @@
 This project implements a Credit Card Fraud Detection pipeline using machine learning techniques. The dataset is heavily imbalanced, and this challenge is tackled using SMOTE (Synthetic Minority Over-sampling Technique). The classification model used is Random Forest, evaluated with and without SMOTE.
 
 Architecture:
-![Architecture](credit card fraud detection)
+![Architecture](creditcard.png)
 
 Key Features:
 
